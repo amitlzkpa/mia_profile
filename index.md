@@ -10,6 +10,8 @@
 > [News](./news.html)  
 > [Contact](./contact.html)  
 
+[FALL 2019](./2019/fall.md)
+
 
 ![Geometrid Pavilion](./geometrid_3.jpg)
 
