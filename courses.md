@@ -13,8 +13,9 @@ and digital analysis using plug-ins for Grasshopper allow students to engage in 
 that seeks to produce final designs that are optimized for constructability, performance, and experience.
 
 ![Int. parametrics 2017](/2019/Top - 13.jpg)
-![Int. parametrics 2017](/2019/All - Iso rendered 3.jpg)
+
 ![Int. parametrics 2017](/2019/20171207_195515.jpg)
+![Int. parametrics 2017](/2019/All - Iso rendered 3.jpg)
 
 ------
 ### Rhino I (Open Campus)
