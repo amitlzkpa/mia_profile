@@ -15,7 +15,7 @@ that seeks to produce final designs that are optimized for constructability, per
 ![Int. parametrics 2017](/2019/Top-13.jpg)
 
 ![Int. parametrics 2017](/2019/20171207_195515.jpg)
-![Int. parametrics 2017](/2019/All-Iso rendered 3.jpg)
+![Int. parametrics 2017](/2019/All-Iso_rendered_3.jpg)
 
 ------
 ### Rhino I (Open Campus)
