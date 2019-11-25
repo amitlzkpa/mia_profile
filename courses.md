@@ -21,6 +21,6 @@ modelling and solid modelling. Students explore digital design for applications 
 architecture and develop a workflow for translating digital models into physical objects using laser cutting
 and 3D printing.
 
-![course-goals](/2019/tenor.gif)
+![Add files via upload](/2019/20190703_192647.jpg)
 
 © 2018 Mia Tsiamis
