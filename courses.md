@@ -1,23 +1,25 @@
-## Courses
+## *Teaching*
+
+### The New School - Parsons School of Design
+Adjunct Professor
 
 ------
-### Introduction to Parametric Design and Grasshopper  
-Parsons School of Design  
-All levels, Grad Credit  
-Fall  
-Prereq: Permission of instructor  
-Computational tools used widely in architetcure and engineering are powerful tools in the hands of any designer. This course introduces students from a wide range of backgrounds - from photography to product designers - to concepts in parametric design thinking using [Grasshopper](https://www.grasshopper3d.com/).  
+### Interior Parametrics
 
+In this course, students explore design development using parametric design strategies in a series of  
+individual projects focused on architectural and interior design. The course provides a comprehensive  
+introduction to Grasshopper for Rhino as a tool for creating a flexible design model. Physical prototyping  
+and digital analysis using plug-ins for Grasshopper allow students to engage in an iterative design process  
+that seeks to produce final designs that are optimized for constructability, performance, and experience.
 
 ------
-### Interior Parametrics  
-Parsons School of Design  
-Constructed Environments Department  
-University undergraduate degree students with restrictions  
-Fall  
-Prereq: PUID 2010 Design Studio 1 or PUAD 2010 Design Studio 1 or PUPD 2010 Design Studio 1  
-In this course students will study the meaning of parametric design in order to create parametric models. Parametric design supports a flexible, iterative design process that employs a system of parameters related by logic in order to generate a design. Parametric Design proposals are readily adaptable to changing design criteria and customizable to various users and environments.  
+### Rhino I (Open Campus)
 
+This course introduces students to 3D digital modelling techniques using Rhino. The course provides  
+a comprehensive introduction to 2D digital drawing basics, 2D patterning, as well as 3D surface  
+modelling and solid modelling. Students explore digital design for applications in product design and
+architecture and develop a workflow for translating digital models into physical objects using laser cutting
+and 3D printing.
 
 
 © 2018 Mia Tsiamis
