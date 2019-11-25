@@ -13,7 +13,7 @@ and digital analysis using plug-ins for Grasshopper allow students to engage in 
 that seeks to produce final designs that are optimized for constructability, performance, and experience.
 
 ![Alex's column poster_again])(/2019/Column_Design_poster.jpg)
-![Int. parametrics 2017](/2019/20171207_195515.jpg)
+
 
 
 ------
