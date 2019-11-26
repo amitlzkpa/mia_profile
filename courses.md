@@ -12,7 +12,7 @@ introduction to Grasshopper for Rhino as a tool for creating a flexible design m
 and digital analysis using plug-ins for Grasshopper allow students to engage in an iterative design process  
 that seeks to produce final designs that are optimized for constructability, performance, and experience.
 
-![Alex's column poster_again])(/2019/Column_Design_poster.jpg)
+![Column poster])(/2019/Column_poster.jpg)
 
 
 ------
