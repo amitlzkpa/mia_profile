@@ -14,6 +14,8 @@ that seeks to produce final designs that are optimized for constructability, per
 
 ![Column poster](/2019/Alex's poster.JPG)
 
+![Cooper Square](/2019/fall.md) 
+
 
 ------
 ### Rhino I (Open Campus)
