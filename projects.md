@@ -1,4 +1,4 @@
-## *COLLABORATIONS
+## COLLABORATIONS
 
 
 ------
