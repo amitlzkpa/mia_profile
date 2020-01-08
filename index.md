@@ -1,7 +1,7 @@
 ## Mia Tsiamis
 
-> [About](./about.html)  
-> [Projects](./projects.html)  
+> [About](./about.html)   > [Projects](./projects.html) 
+ 
 > [Publications](./publications.html)  
 > [Courses](./courses.html)  
 > [Exhibitions](./exhibitions.html)  
