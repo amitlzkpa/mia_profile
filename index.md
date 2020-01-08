@@ -13,7 +13,7 @@
 
 
 
-(./geometrid_3.jpg)
+![Works](/2019/Tsiamis_projects.jpg)
 
 
 © 2018 Mia Tsiamis
