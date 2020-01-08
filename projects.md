@@ -37,6 +37,6 @@ Performed structural verifcation of the deflection and stability analysis of the
 ### [Parametric Truss](/2019/exploration/parametric/index.html)
 `Parametric form explorations` | `Structural Design'  
 
-asjndljalm
+
 
 © 2018 Mia Tsiamis
