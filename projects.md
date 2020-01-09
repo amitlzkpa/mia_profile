@@ -20,14 +20,14 @@ Temporary pavilion designed for the 2015 International Association for Shell and
 Assisted in the design development of the 12m-diameter timber dome structure which serves as a partial covering for the central core of the landmark fort. Developed concept with BureauSLA and investigated options for discretizing dome.  Performed parametric study of dome configurations.  Built finite element analysis model and performed analysis of total structure and developed details for construction. 
 
 ------
-### [Project EGG](projectegg.org)
+### [Project EGG](http://www.michielvanderkley.nl/egg/project-egg/)
 `Parametric form explorations` | `Structural Design'  
 
 *Collaboration with Studio Michiel van der Kley_2013*
 Performed structural analysis of free-form 3D printed pavilion to determine stability of form. The pavilion  is composed of about 5,000 modules which were 3D printed by volunteers from around the world, and connected on site to build the final form.  The architectural form was discretized into a line element model and analyzed assuming approximate material properties for the 3D printed modules. As a testament to its modular design, the pavilion continues to be disassembled and reconstructed at various venues around the world.
 
 ------
-### [Boathouse at Het Lankheet](dynck.nl)
+### [Boathouse at Het Lankheet](http://dynck.nl)
 `Parametric form explorations` | `Structural Design'  
 
 *Collaboration with Dynck_2013*
