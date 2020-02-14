@@ -1,5 +1,14 @@
 ## PROJECTS
 
+INTEROPERABILITY | ANALYSIS | CONCEPT DEVELOPMENT
+---------------- | -------- | -------------------
+George Lucas Museum of Narrative Art | Egg | Geometrid
+O'Hare International Airport | Boathouse | Fukuoka
+Miami L Stadium | Dome | Bridge alignment 
+Column - ETABS/Revit |  | 
+Rhino.Inside - SAP/Revit | | 
+Speckle | | 
+
 ### INTEROPERABILITY | ### ANALYSIS | ### CONCEPT DEVELOPMENT
 
 > #### George Lucas Museum of Narrative Art | ### Egg | #### Geometrid
