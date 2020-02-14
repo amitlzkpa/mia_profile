@@ -1,6 +1,5 @@
 ## PROJECTS
 
-```
 ### Interoperability
 
 > ##### George Lucas Museum of Narrative Art
@@ -23,7 +22,7 @@
 > ##### Geometrid
 > ##### Fukuoka
 > ##### Bridge alignment
-'''
+
 
 ### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
 `Physical Prototyping` | `Structural Design`  
