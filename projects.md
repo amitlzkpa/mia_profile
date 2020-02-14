@@ -3,11 +3,11 @@
 ### Interoperability
 
 > ##### * George Lucas Museum of Narrative Art
-        * O'Hare International Airport
-        * Miami L Stadium
-        * Column - ETABS/Revit
-        * Rhino.Inside - SAP/Revit
-        * Speckle
+> ##### * O'Hare International Airport
+> ##### * Miami L Stadium
+> ##### * Column - ETABS/Revit
+> ##### * Rhino.Inside - SAP/Revit
+> ##### * Speckle
 
 
 ### Analysis
