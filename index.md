@@ -1,9 +1,9 @@
-## Mia Tsiamis
+## M i a . T s i a m i s
 
-> [About](./about.html)  /  [Projects](./projects.html) /  [Publications](./publications.html) /  [Courses](./courses.html) /  [Contact](./contact.html)   
+>   [PROJECTS](./projects.html)  / [RESEARCH](./research.html) / [MAKING](./making.html) / [Teaching](./courses.html) /  [Publications](./publications.html) /  [Contact](./contact.html)   
 
  
-![Works](/2019/Tsiamis_projects.jpg)
+![Works](/2019/Processing 1.JPG)
 
 
 © 2018 Mia Tsiamis
