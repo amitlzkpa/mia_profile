@@ -1,26 +1,28 @@
 ## PROJECTS
 
 ### INTEROPERABILITY
-
-#### George Lucas Museum of Narrative Art
-#### O'Hare International Airport
-#### MLS
-#### Column Update
-#### Rhino.Inside
-#### Speckle
+'''
+> #### George Lucas Museum of Narrative Art
+> #### O'Hare International Airport
+> #### MLS
+> #### Column Update
+> #### Rhino.Inside
+> #### Speckle
+'''
 
 ### ANALYSIS
-
-* Egg
-* Boathouse
-* Dome
+'''
+> #### Egg
+> #### Boathouse
+> #### Dome
+'''
 
 ### CONCEPT DEVELOPMENT
-
-* Geometrid
-* Fukuoka
-* Bridge alignment
-
+'''
+> #### Geometrid
+> #### Fukuoka
+> #### Bridge alignment
+'''
 ------
 ### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
 `Physical Prototyping` | `Structural Design`  
