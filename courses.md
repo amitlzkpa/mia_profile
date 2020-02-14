@@ -4,7 +4,7 @@
 Adjunct Professor - School of Constructed Environments
 
 ------
-> ### Interior Parametrics
+### Interior Parametrics
 
 In this course, students explore design development using parametric design strategies in a series of  
 individual projects focused on architectural and interior design. The course provides a comprehensive  
@@ -18,7 +18,7 @@ that seeks to produce final designs that are optimized for constructability, per
 
 
 ------
-> ### Rhino I (Open Campus)
+### Rhino I (Open Campus)
 
 This course introduces students to 3D digital modelling techniques using Rhino. The course provides  
 a comprehensive introduction to 2D digital drawing basics, 2D patterning, as well as 3D surface  
