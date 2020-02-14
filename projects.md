@@ -1,6 +1,6 @@
 ## .PROJECTS
 
-### *Interoperability
+### *Interoperability*
 
 > ##### * George Lucas Museum of Narrative Art
 > ##### * O'Hare International Airport
@@ -10,14 +10,14 @@
 > ##### * Speckle
 
 
-### *Analysis
+### *Analysis*
 
 > ##### * Egg
 > ##### * Boathouse
 > ##### * Dome
 
 
-### *Concept Development
+### *Concept Development*
 
 > ##### * Geometrid
 > ##### * Fukuoka
