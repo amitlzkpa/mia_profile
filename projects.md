@@ -1,36 +1,18 @@
 ## PROJECTS
 
-INTEROPERABILITY | ANALYSIS | CONCEPT DEVELOPMENT
----------------- | -------- | -------------------
-George Lucas Museum of Narrative Art | Egg | Geometrid
-O'Hare International Airport | Boathouse | Fukuoka
-Miami L Stadium | Dome | Bridge alignment 
-Column - ETABS/Revit |  | 
-Rhino.Inside - SAP/Revit | | 
-Speckle | | 
+### INTEROPERABILITY
 
-### INTEROPERABILITY | ### ANALYSIS | ### CONCEPT DEVELOPMENT
-
-> #### George Lucas Museum of Narrative Art | ### Egg | #### Geometrid
-> #### O'Hare International Airport | #### Boathouse | #### Fukuoka
-> #### Miami L Stadium | #### Dome | #### Bridge alignment 
-> #### Column - ETABS/Revit
-> #### Rhino.Inside - SAP/Revit 
-> #### Speckle
+> #### George Lucas Museum of Narrative Art | O'Hare International Airport | Miami L Stadium | Column - ETABS/Revit | Rhino.Inside - SAP/Revit | Speckle
 
 
 ### ANALYSIS
 
-> #### Egg
-> #### Boathouse
-> #### Dome
+> #### Egg | Boathouse | Dome
 
 
 ### CONCEPT DEVELOPMENT
 
-> #### Geometrid
-> #### Fukuoka
-> #### Bridge alignment
+> #### Geometrid | Fukuoka | Bridge alignment
 
 ------
 ### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
