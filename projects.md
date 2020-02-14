@@ -63,4 +63,4 @@ Performed structural verifcation of the deflection and stability analysis of the
 `Parametric form explorations` | `Structural Design' 
 
 
-© 2018 Mia Tsiamis
+© 2019 Mia Tsiamis
