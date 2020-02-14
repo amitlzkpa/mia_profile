@@ -1,4 +1,4 @@
-## *Teaching*
+## T e a c h i n g
 
 ### The New School - Parsons School of Design
 Adjunct Professor
@@ -14,7 +14,7 @@ that seeks to produce final designs that are optimized for constructability, per
 
 ![Column poster](/2019/Alex's poster.JPG)
 
-![Cooper Square](fall.md) 
+![Cooper Square](./fall.md) 
 
 
 ------
@@ -28,4 +28,3 @@ and 3D printing.
 
 ![Add files via upload](/2019/20190703_192647.jpg)
 
-© 2018 Mia Tsiamis
