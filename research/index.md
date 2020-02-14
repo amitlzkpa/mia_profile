@@ -1,6 +1,6 @@
 
 # .Research
 
-> #### * Architectureal Origami
+> #### * Architectural Origami
 > #### * Data visualization
 > #### * Transformable architecture
