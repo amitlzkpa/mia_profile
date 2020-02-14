@@ -1,19 +1,29 @@
 ## PROJECTS
 
-### 'Interoperability'
+### Interoperability
 
-> ##### George Lucas Museum of Narrative Art | O'Hare International Airport | Miami L Stadium | Column - ETABS/Revit | Rhino.Inside - SAP/Revit | Speckle
+> ##### George Lucas Museum of Narrative Art
+> ##### O'Hare International Airport
+> ##### Miami L Stadium
+> ##### Column - ETABS/Revit
+> ##### Rhino.Inside - SAP/Revit
+> ##### Speckle
 
 
-### 'Analysis'
+### Analysis
 
-> ##### Egg | Boathouse | Dome
+> ##### Egg
+> ##### Boathouse
+> ##### Dome
 
 
-### 'Concept Development'
+### Concept Development
 
-> ##### Geometrid | Fukuoka | Bridge alignment
+> ##### Geometrid
+> ##### Fukuoka
+> ##### Bridge alignment
 
+'''
 ------
 ### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
 `Physical Prototyping` | `Structural Design`  
@@ -49,7 +59,7 @@ Performed structural verifcation of the deflection and stability analysis of the
 ------
 ### [Parametric Truss](/2019/exploration/parametric/index.html)
 `Parametric form explorations` | `Structural Design'  
-
+'''
 
 
 © 2018 Mia Tsiamis
