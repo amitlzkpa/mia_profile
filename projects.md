@@ -1,5 +1,6 @@
 ## PROJECTS
 
+```
 ### Interoperability
 
 > ##### George Lucas Museum of Narrative Art
@@ -22,8 +23,9 @@
 > ##### Geometrid
 > ##### Fukuoka
 > ##### Bridge alignment
+'''
 
-'''### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
+### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
 `Physical Prototyping` | `Structural Design`  
 
 *Collaboration with CORE Studio|Thornton Tomasetti_2015*
@@ -56,7 +58,7 @@ Performed structural verifcation of the deflection and stability analysis of the
 
 ------
 ### [Parametric Truss](/2019/exploration/parametric/index.html)
-`Parametric form explorations` | `Structural Design' '''
+`Parametric form explorations` | `Structural Design' 
 
 
 © 2018 Mia Tsiamis
