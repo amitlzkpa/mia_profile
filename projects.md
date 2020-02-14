@@ -24,8 +24,6 @@
 > ##### * Bridge alignment
 
 
-
-
 -----
 ### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
 `Physical Prototyping` | `Structural Design`  
