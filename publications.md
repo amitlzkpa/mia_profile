@@ -13,4 +13,3 @@ Tsiamis, Mia & Oliva, Alfonso & Calvano, Michele. (2017). Algorithmic Design and
 ------
 
 
-© 2018 Mia Tsiamis
