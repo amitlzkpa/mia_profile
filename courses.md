@@ -1,7 +1,6 @@
 ## T e a c h i n g
 
-### The New School
-### Parsons School of Design
+### The New School | Parsons School of Design
 Adjunct Professor - School of Constructed Environments
 
 ------
