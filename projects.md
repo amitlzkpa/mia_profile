@@ -1,21 +1,21 @@
-# PROJECTS
+## PROJECTS
 
-# INTEROPERABILITY
+### INTEROPERABILITY
 
-## George Lucas Museum of Narrative Art
-## O'Hare International Airport
-## MLS
-## Column Update
-## Rhino.Inside
-## Speckle
+#### George Lucas Museum of Narrative Art
+#### O'Hare International Airport
+#### MLS
+#### Column Update
+#### Rhino.Inside
+#### Speckle
 
-#ANALYSIS
+### ANALYSIS
 
 * Egg
 * Boathouse
 * Dome
 
-# CONCEPT DEVELOPMENT
+### CONCEPT DEVELOPMENT
 
 * Geometrid
 * Fukuoka
