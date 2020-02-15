@@ -5,7 +5,6 @@
  
 ![Works](/2019/Processing 1.JPG)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0Oaqi3Zc03JFnvNCrtJXnD_hi9qZgxPU8MC64mtWT7jq9h63t642d3v_nBajypP6TpqWCpwIFTRXA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0Oaqi3Zc03JFnvNCrtJXnD_hi9qZgxPU8MC64mtWT7jq9h63t642d3v_nBajypP6TpqWCpwIFTRXA/pubchart?oid=971487346&amp;format=interactive"></iframe>
 
 © 2019 Mia Tsiamis
