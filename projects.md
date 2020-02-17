@@ -1,13 +1,16 @@
 # P r o j e c t s
 
-### *Interoperability*
+  |  
+  ### Geometrid | ### Fukuoka | ### ProjectEGG
+  ### Column Interoperability | ### MLS Roof Truss | ### Het Lankheet Boathouse
+  ### Bridge Aligment | ### George Lucas Museum of Narrative Art | ### Fort Asperen Dome
+  ### Rhino.Inside | ### O'Hare International Airport | ### Arch. Revit to GSA
 
-> ##### * George Lucas Museum of Narrative Art
-> ##### * O'Hare International Airport
-> ##### * Miami L Stadium
-> ##### * Column - ETABS/Revit
-> ##### * Rhino.Inside - SAP/Revit
-> ##### * Speckle
+### *Concept Development*
+
+> ##### * Geometrid
+> ##### * Fukuoka
+> ##### * Bridge alignment
 
 
 ### *Analysis*
@@ -17,12 +20,14 @@
 > ##### * Dome
 
 
-### *Concept Development*
+### *Interoperability*
 
-> ##### * Geometrid
-> ##### * Fukuoka
-> ##### * Bridge alignment
-
+> ##### * George Lucas Museum of Narrative Art
+> ##### * O'Hare International Airport
+> ##### * Miami L Stadium
+> ##### * Column - ETABS/Revit
+> ##### * Rhino.Inside - SAP/Revit
+> ##### * Speckle
 
 -----
 ### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
