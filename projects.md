@@ -1,3 +1,5 @@
+[PROJECTS](./projects.html)  /  [RESEARCH](./research)  /  [MAKING](./making)  /  [TEACHING](./courses.html) / [PUBLICATIONS](./publications.html) /  [CONTACT](./contact.html)  
+
 # P r o j e c t s
 
   Geometrid | ![Fukuoka](/2019/Fukuoka_Project.jpg) | ProjectEGG
