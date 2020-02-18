@@ -1,7 +1,7 @@
 # P r o j e c t s
 
   |  
-  Geometrid | [Fukuoka](/2019/Fukuoka_Project.JPG) | ProjectEGG
+  Geometrid | ![](/2019/Fukuoka_Project.JPG) | ProjectEGG
   Column Interoperability | MLS Roof Truss | Het Lankheet Boathouse
   Bridge Aligment | George Lucas Museum of Narrative Art | Fort Asperen Dome
   Rhino.Inside | O'Hare International Airport | Arch. Revit to GSA
