@@ -1,3 +1,5 @@
+[PROJECTS](./projects.html)  /  [RESEARCH](./research)  /  [MAKING](./making)  /  [TEACHING](./courses.html) / [PUBLICATIONS](./publications.html) /  [CONTACT](./contact.html)
+
 # P u b l i c a t i o n s
 
 
