@@ -3,8 +3,8 @@
 # P r o j e c t s
 
   Geometrid | ![Fukuoka](/2019/Fukuoka_Project.jpg) | ![Egg](/2019/Egg_Project.jpg)
-  Column Interoperability | MLS Roof Truss | Het Lankheet Boathouse
-  Bridge Aligment | George Lucas Museum of Narrative Art | Fort Asperen Dome
+  Column Interoperability | MLS Roof Truss | ![Het Lankheet Boathouse](/2019/Boathouse_Project.jpg)
+  Bridge Aligment | George Lucas Museum of Narrative Art | ![Fort Asperen Dome](/2019/Dome_Project.jpg)
   Rhino.Inside | O'Hare International Airport | Arch. Revit to GSA
 
 
