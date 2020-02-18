@@ -1,3 +1,5 @@
+[PROJECTS](./projects.html)  /  [RESEARCH](./research)  /  [MAKING](./making)  /  [TEACHING](./courses.html) / [PUBLICATIONS](./publications.html) /  [CONTACT](./contact.html)
+
 # T e a c h i n g
 
 ### The New School | Parsons School of Design
