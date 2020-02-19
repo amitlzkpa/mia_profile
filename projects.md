@@ -2,7 +2,7 @@
 
 # P r o j e c t s
 
- [Geometrid](/2019/Geometrid_Project.jpg) | ![Fukuoka](/2019/Fukuoka_Project.jpg) | ![Egg](/2019/Egg_Project.jpg) | ![Fort Asperen Dome](/2019/Dome_Project.jpg)
+ [Geometrid](#geometrid-pavilion)![Geometrid](/2019/Geometrid_Project.jpg) | ![Fukuoka](/2019/Fukuoka_Project.jpg) | ![Egg](/2019/Egg_Project.jpg) | ![Fort Asperen Dome](/2019/Dome_Project.jpg)
   Column Interoperability | ![MLS Roof Truss](/2019/StadiumTruss_Project.jpg) | ![Bridge Alignment](/2019/BridgeAlignment_Project.jpg) | ![Het Lankheet Boathouse](/2019/Boathouse_Project.jpg)
   George Lucas Museum of Narrative Art | Rhino.Inside | O'Hare International Airport | Arch. Revit to GSA
 
