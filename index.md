@@ -1,4 +1,4 @@
-## M i a . T s i a m i s
+## M i a  T s i a m i s
 
 [PROJECTS](./projects.html) / [RESEARCH](./research) / [MAKING](./making) / [TEACHING](./courses.html) / [PUBLICATIONS](./publications.html) / [CONTACT](./contact.html)   
 
