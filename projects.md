@@ -2,9 +2,9 @@
 
 # P r o j e c t s
 
- [Geometrid](#geometrid-pavilion)![Geometrid](/2019/Geometrid_Project.jpg) | ![Fukuoka](/2019/Fukuoka_Project.jpg) | ![Egg](/2019/Egg_Project.jpg) | ![Fort Asperen Dome](/2019/Dome_Project.jpg)
-  Column Interoperability | ![MLS Roof Truss](/2019/StadiumTruss_Project.jpg) | ![Bridge Alignment](/2019/BridgeAlignment_Project.jpg) | ![Het Lankheet Boathouse](/2019/Boathouse_Project.jpg)
-  George Lucas Museum of Narrative Art | Rhino.Inside | O'Hare International Airport | Arch. Revit to GSA
+ [Geometrid](#geometrid-pavilion)![Geometrid](/2019/Geometrid_Project.jpg) | [Fukuoka](#fukuoka-international-airport)![Fukuoka](/2019/Fukuoka_Project.jpg) | [Project EGG](#project-egg)![Egg](/2019/Egg_Project.jpg) | [Fort Asperen Dome](#kunstfort-asperen-dome)![Fort Asperen Dome](/2019/Dome_Project.jpg)
+  [Column Interoperability](#column-interoperability-etabs-to-revit) | [MLS Roof Truss](#mls-roof-truss)![MLS Roof Truss](/2019/StadiumTruss_Project.jpg) | [Bridge Alignment Tool](#bridge-alignment-tool-processing-rhino)![Bridge Alignment](/2019/BridgeAlignment_Project.jpg) | [Boathouse](#boathouse-at-het-lankheet)![Het Lankheet Boathouse](/2019/Boathouse_Project.jpg)
+  [LMNA](#george-lucas-museum-of-narrative-art) ![LMNA](/2019/LMNA_Project.jpg) | [Nijmegen Brug](#nijmegen-brug-analysis) | [O'Hare International Airport](#o'hare-international-airport) | [Arch. Revit to GSA](#revit-(-architecture-)-to-gsa)
 
 
 -----
@@ -31,13 +31,13 @@ Temporary pavilion designed for the 2015 International Association for Shell and
 *HOK 2019*
 
 -----
-### Column Interoperability - ETABS to Revit
+### Column Interoperability ETABS to Revit
 *BIM; Interoperability*  
 
 *HOK 2019*
 
 -----
-### Bridge Alignment Tool - Processing to GSA
+### Bridge Alignment Tool Processing to Rhino
 *Parametric form explorations; Interoperability*  
 
 *Research derived from competition 2018*
@@ -49,10 +49,10 @@ Temporary pavilion designed for the 2015 International Association for Shell and
 *LERA 2017-2018*
 
 -----
-### Rhino.Inside for Interoperability
-*BIM; Interoperability*  
+### Nijmegen Brug Analysis
+*Grasshopper modeling; Preliminary structural analysis*  
 
-*HOK 2020*
+*Independent collaboration 2018*
 
 -----
 ### O'Hare International Airport
