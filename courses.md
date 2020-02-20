@@ -10,7 +10,7 @@ School of Constructed Environments | Open Campus
 [Interior Parametrics](#interior-parametrics) | [Rhino I](#rhino-i)
 [Course Catalog](https://courses.newschool.edu/courses/PSCE3016) | [Course Catalog](https://opencampus.newschool.edu/courses/CENC/4188/PCDD/0202/A/rhino-1)
 
-------
+-----
 ### Interior Parametrics
 
 In this course, students explore design development using parametric design strategies in a series of  
@@ -22,8 +22,7 @@ that seeks to produce final designs that are optimized for constructability, per
 ![Column poster](/2019/Alex's poster.JPG)
 
 
-
-------
+-----
 ### Rhino I
 
 This course introduces students to 3D digital modelling techniques using Rhino. The course provides  
