@@ -5,6 +5,8 @@
 ### The New School | Parsons School of Design
 Adjunct Professor - School of Constructed Environments
 
+[Interior Parametrics](#interior-parametrics)(/2019/GH.jpg) | [Rhino I](#rhino-i)(/2019/Rhino.jpg)
+
 ------
 ### Interior Parametrics
 
@@ -19,7 +21,7 @@ that seeks to produce final designs that are optimized for constructability, per
 
 
 ------
-### Rhino I (Open Campus)
+### Rhino I
 
 This course introduces students to 3D digital modelling techniques using Rhino. The course provides  
 a comprehensive introduction to 2D digital drawing basics, 2D patterning, as well as 3D surface  
