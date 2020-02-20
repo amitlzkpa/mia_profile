@@ -2,7 +2,7 @@
 
 # R e s e a r c h
 
-[Architectural Origami](#architectural-origami) | [Data Visualization](#vr-experiment) | [Bistable Mechanism](#bistability-in-architecture) | [Transformable Architecture](#transformable-architecture)
+[Architectural Origami](#architectural-origami)![Origami](../2019/Architectural_Origami_Research.jpg | [Data Visualization](#vr-experiment)![VR](../2019/VR_Gallery_Research.jpg) | [Bistable Mechanism](#bistability-in-architecture)![Bistability](../2019/Bistability_Research.jpg) | [Transformable Architecture](#transformable-architecture)![Transformable](../2019/Transformable_Architecture_Research.jpg)
 
 -----
 
