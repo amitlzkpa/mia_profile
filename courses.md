@@ -5,7 +5,8 @@
 ### The New School | Parsons School of Design
 Adjunct Professor - School of Constructed Environments
 
-[Interior Parametrics](#interior-parametrics)![Interior Parametrics](/2019/GH.jpg) | [Rhino I](#rhino-i)![Rhino I](/2019/Rhino.jpg)
+[Interior Parametrics](#interior-parametrics) | [Rhino I](#rhino-i)
+[Course Catalog](https://courses.newschool.edu/courses/PSCE3016) | [Course Catalog](https://opencampus.newschool.edu/courses/CENC/4188/PCDD/0202/A/rhino-1)
 
 ------
 ### Interior Parametrics
