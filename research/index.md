@@ -12,7 +12,7 @@
 -----
 
 ### VR Experiment
-*LERA 2016*
+*2016 LERA*
 
 -----
 
