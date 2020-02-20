@@ -2,7 +2,7 @@
 
 # R e s e a r c h
 
-[Architectural Origami](#architectural-origami) | [Data Visualization](#vr-experiment) | ([Bistable Mechanism](#bistability-in-architecture) | [Transformable Architecture](#transformable-architecture)
+[Architectural Origami](#architectural-origami) | [Data Visualization](#vr-experiment) | [Bistable Mechanism](#bistability-in-architecture) | [Transformable Architecture](#transformable-architecture)
 
 -----
 
@@ -21,5 +21,5 @@
 
 -----
 
-### Transformable architecture
+### Transformable Architecture
 *2015 Masters Thesis, Technical University of Delft*
