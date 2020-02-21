@@ -52,6 +52,10 @@ The objective of this research was to establish a workflow which would enable us
 
 *LERA 2017-2018*
 
+The Lucas Museum of Narrative Art will be a 275,000 sq. ft museum building, which will house filmamker George Lucas’ personal collection of artwork, costumes, and artifacts, as well as an education wing, a library, theaters, dining areas, and a rooftop promenade.
+
+A parametric workflow was developed to more easily update the structural Revit model as changes were made to the design.  Scripts were developed in Dynamo to translate structural geometry from Rhino into Revit and to build geometry directly in Revit from point data stored in Excel.  The library of Dynamo scripts also includes tools for generating  a developed elevation of the truss that wraps around the perimeter of the building, as well as tools for placing views on sheets, placing detail components and tags, and querying the model.  A library of adaptive components representing custom built-up structural elements was also generated.
+
 -----
 ### Nijmegen Brug Analysis
 *Grasshopper modeling; Preliminary structural analysis*  
