@@ -10,6 +10,10 @@
 
 The geometric flexibility of folded origami tessellations, combined with the structural efficiency of folded plate structures, gives origami strong potential for architectural and engineering applications.  This research explored this potential by examining the relationship between geometric parameters that define the fold pattern and the associated folded shape.  Visual scripting using Grasshopper in Rhino was used to digitally simulate folding of the flat patterns and to explore how the form of the folded tessellations can be adapted to various mathematical surfaces.  Structural analysis was performed in order  to gain an understanding of how variations in global geometric parameters, such as curvature and span, as well as variations in the crease pattern, such as pattern density, affect the strength and stability of the overall folded form on an architectural scale.
 
+<video width="320" height="240" controls>
+  <source type="video/mp4" src=../2019/Origami workflow_02.mp4>
+</video>
+
 -----
 ### VR Experiment
 *2016 LERA*
