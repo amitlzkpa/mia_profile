@@ -105,5 +105,5 @@ Performed structural verifcation of the deflection and stability analysis of the
 ### [Parametric Truss](/2019/exploration/parametric/index.html)
 *Parametric form explorations; p5.js* 
 
-Based
+The objective of this study was to begin to translate the parametric truss definition for the MLS stadium roof to a web-based platform that would enable designers to generate various truss configurations and export the geometry for 3D modelling and analysis.
 
