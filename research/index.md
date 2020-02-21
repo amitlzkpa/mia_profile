@@ -12,6 +12,7 @@ The geometric flexibility of folded origami tessellations, combined with the str
 
 <iframe src='//gifs.com/embed/origami1-ZYDAy2' frameborder='0' scrolling='no' width='854px' height='458px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
+<iframe src='//gifs.com/embed/origami2-E87Y74' frameborder='0' scrolling='no' width='854px' height='458px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 -----
 ### VR Experiment
 *2016 LERA*
