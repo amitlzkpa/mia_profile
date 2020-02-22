@@ -35,6 +35,7 @@ This data was recorded in Unity, saved in Excel, and imported into Grasshopper f
 
 Buildings are conceived as permanent-use structures, generally designed for a set function.  However, dynamic markets and fast-changing societies require new accommodation and usually buildings are deconstructed and rebuilt to suit new uses before the technical life cycle of the building materials has expired and thus they are not used to their fullest potential.  The solution is to anticipate the diversity of needs that are either dictated by the building’s users, or by the changing social and economic market, and to provide a design that can adapt to these evolving demands.  A flexible design not only increases the longevity of a building, but on a shorter timescale, enables the building to be multi-functional, serving a wider community of people.  This flexibility can be achieved by means of transformable structures which can change shape, volume, or appearance, subsequently impacting how a space is used or experienced.  In order to inspire a shift towards flexible design, the research seeks to expose the architectural “why” and the engineering “how” of transformable architecture by analyzing existing projects and exploring technical strategies for realizing transformable structures.  A qualitative evaluation of existing transformable architecture projects provides the context for experimenting with bistability as a potential mechanism for building transformable architecture.  Digital and physical modelling reveals limitations and opportunities associated with designing movable structures with this type of mechanism.
 
+![](../2019/Bistability_Ryan.gif)
 
 -----
 ### Transformable Architecture
@@ -43,4 +44,6 @@ Buildings are conceived as permanent-use structures, generally designed for a se
 As our cities continue to grow, making one building or facility useful to a larger number of people with a variety of needs becomes increasingly valuable.  Instead of relying on new construction to meet the needs of the growing population, can we reduce our consumption of resources by reusing the existing building stock and making each building useful for multiple functions?  How can we use transformable architecture to achieve this end?
 
 The Van Gendt Hallen in Amsterdam are five landmark strutures covering and area of almost 13,000m2.  This project proposes four interventions which are designed to create small intimiate spaces within the large halls.  The structures are designed to be transformable in order to  give them the ability to adapt to the varying needs of different types of users by changing the space which they define.  Four transformable interventions are presented.
+
+![](../2019/Boxes_Delft.gif)
 
