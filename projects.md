@@ -13,6 +13,7 @@
 
 *Collaboration with CORE Studio|Thornton Tomasetti_2015*
 Temporary pavilion designed for the 2015 International Association for Shell and Spatial Structures (IASS) Symposium in Amsterdam. The 8m- long suspended kinetic structure “pulses” as the 8 scissor rings spaced along the central truss, expand and contract. Grasshopper was used to study geometric proportions and relationships, Digital Project was used for fabrication modeling, clash detection, and assembly logic, and Processing, Arduino, and Gcode for motion programming and control.
+![Geometrid](/2019/Geometrid_portfolio.jpg)
 
 [Article](http://core.thorntontomasetti.com/geometrid-pavilion/)  
 [Paper](https://s3.amazonaws.com/corewebsite-media-uploads/CoreStudioWebsite/wp-content/uploads/20150914212851/20150817_IASS_Geometrid-Paper_final_r02.pdf)  
